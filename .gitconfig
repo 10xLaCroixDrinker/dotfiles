@@ -1,0 +1,9 @@
+[user]
+	name = Jimmy King
+	email = jimmy.king@meltmedia.com
+[help]
+	autocorrect = 1
+[color]
+	ui = 1
+[push]
+	default = simple
