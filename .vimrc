@@ -150,7 +150,7 @@ map ,sc :highlight Comment term=bold ctermfg=white<CR>
 map ,hc :highlight Comment term=bold ctermfg=darkgray<CR>
 map ,nc :highlight Comment term=bold ctermfg=black<CR>
 
-" for jimmy!
+" for jamie!
 set background=dark
 
 " solarized options 
