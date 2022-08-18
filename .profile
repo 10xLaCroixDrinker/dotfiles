@@ -21,7 +21,7 @@ PS4='+ '
 prom
 
 DEPLOY_LOCATION="/Library/Application Support/jboss/deploy"
-USER_EMAIL=jimmy.king@meltmedia.com
+USER_EMAIL=hello@jamieking.me
 DEFAULT_USER=jking@jking
 
 export DEPLOY_LOCATION USER_EMAIL
